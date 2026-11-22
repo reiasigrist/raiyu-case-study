@@ -2,8 +2,7 @@
   <img src="raiyu-banner.png" alt="RAIYU: Empathic AI Agent Study" width="100%">
 </p>
 
-<p align="center"><b>Can empathic design change how people connect with AI?</b><br>
-<sub>MSc Applied Psychology dissertation · University of Wales Trinity Saint David · Distinction (85%)</sub></p>
+## See the difference
 
 <p align="center">
   <img src="raiyu-demo.gif" alt="The same message answered by RAIYU and by the baseline AI" width="100%">
@@ -73,55 +72,34 @@ Across everyone, **a stronger alliance significantly predicted a bigger rise in 
 
 ## In their words
 
-> *"I felt listened to and it's given me something I can work towards."* <br><sub>RAIYU participant</sub>
-
-> *"I don't want it to get too deep... I don't want to open my mind up."* <br><sub>RAIYU participant</sub>
-
-> *"This impressed me more than I ever thought it could."* <br><sub>Baseline participant, who started out "very against AI being helpful"</sub>
-
-> *"You know the words that make you look as if you do."* <br><sub>Baseline participant</sub>
-
-<p align="center"><img src="raiyu-quote-wall.png" alt="Quote poster: anonymous participant reflections, RAIYU in pink and baseline in blue" width="100%"></p>
-<p align="center"><sub>The quote wall I made for the UWTSD Postgraduate Showcase, September 2026</sub></p>
+<p align="center"><img src="raiyu-quotes.png" alt="Four anonymous participant quotes. RAIYU: I felt listened to and it's given me something I can work towards. Baseline: This impressed me more than I ever thought it could. RAIYU: I don't want it to get too deep, I don't want to open my mind up. Baseline: You know the words that make you look as if you do." width="100%"></p>
 
 <img src="https://raw.githubusercontent.com/reiasigrist/reiasigrist/main/divider.png" width="100%" alt="">
 
 ## Try it yourself: can you spot RAIYU?
 
-One reply in each round came from RAIYU and one from the baseline AI. Tap to reveal.
+Each round shows a message and two replies. One came from RAIYU and one from the baseline AI. **Tap a reply to flip it** and see who said it.
 
-**Round 1: Bond**<br>
-*"I got a bad mark back and I just feel like giving up."*
+### Round 1: Bond
 
-**A:** "I can hear how heavy that feels... it's left you feeling exhausted."<br>
-**B:** "One bad grade feels like a huge mountain... but it doesn't define your potential."
+> 💬 *"I got a bad mark back and I just feel like giving up."*
 
-<details><summary><b>Reveal</b></summary>
+<details><summary><b>A:</b> "I can hear how heavy that feels... it's left you feeling exhausted."</summary><br>💗 <b>RAIYU</b>: reflects the feeling first, before trying to fix anything.<br><br></details>
+<details><summary><b>B:</b> "One bad grade feels like a huge mountain... but it doesn't define your potential."</summary><br>💙 <b>Baseline</b>: goes straight to reassurance.<br><br></details>
 
-**A is RAIYU.** It reflects the feeling first, before trying to fix anything.
-</details>
+### Round 2: Goal
 
-**Round 2: Goal**<br>
-*"I can't decide whether to ask for an extension or just hand in what I've got. Just tell me straight, what do you think I should do?"*
+> 💬 *"I can't decide whether to ask for an extension or just hand in what I've got. Just tell me straight, what do you think I should do?"*
 
-**A:** "If the core content's solid, I'd say just hit send... but if it's missing something, go for the extension."<br>
-**B:** "Caught between two paths... what are the main concerns that come up for you?"
+<details><summary><b>A:</b> "If the core content's solid, I'd say just hit send... but if it's missing something, go for the extension."</summary><br>💙 <b>Baseline</b>: makes the decision for them.<br><br></details>
+<details><summary><b>B:</b> "Caught between two paths... what are the main concerns that come up for you?"</summary><br>💗 <b>RAIYU</b>: even when asked directly, it helps the person find their own goal.<br><br></details>
 
-<details><summary><b>Reveal</b></summary>
+### Round 3: Task
 
-**B is RAIYU.** Even when asked directly, it helps the person find their own goal instead of deciding for them.
-</details>
+> 💬 *"I've got three deadlines this week and no idea where to start."*
 
-**Round 3: Task**<br>
-*"I've got three deadlines this week and no idea where to start."*
-
-**A:** "Try taking a deep breath... and picking just one task to start with."<br>
-**B:** "It sounds like you're overwhelmed... shall we list the three tasks out and look at them together?"
-
-<details><summary><b>Reveal</b></summary>
-
-**B is RAIYU.** It names the feeling, then offers a next step to do *together*.
-</details>
+<details><summary><b>A:</b> "Try taking a deep breath... and picking just one task to start with."</summary><br>💙 <b>Baseline</b>: jumps straight to advice.<br><br></details>
+<details><summary><b>B:</b> "It sounds like you're overwhelmed... shall we list the three tasks out and look at them together?"</summary><br>💗 <b>RAIYU</b>: names the feeling, then offers a next step to do together.<br><br></details>
 
 <img src="https://raw.githubusercontent.com/reiasigrist/reiasigrist/main/divider.png" width="100%" alt="">
 
